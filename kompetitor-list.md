@@ -1,9 +1,3 @@
-Laporan intelijen pasar yang telah saya susun dan lengkapi dengan seluruh daftar kompetitor (termasuk Modena, kompetitor tersembunyi, dan lainnya) dalam format Markdown dapat Anda salin dan simpan sebagai file `.md`.
-
-Berikut adalah kontennya:
-
----
-
 # LAPORAN INTELIJEN PASAR KOMPREHENSIF: LANSKAP KOMPETITOR PLTS
 
 **Dibuat Untuk:** Tim Marketing & Sales PT Renus Global Indonesia
