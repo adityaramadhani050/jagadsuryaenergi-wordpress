@@ -24,91 +24,31 @@ Kompetitor yang berhadapan langsung dengan target harian Renus di perumahan mene
 
 | Nama Kompetitor | Fokus & Model Bisnis | Tingkat Ancaman (B2C) | Strategi Konter dari Renus |
 | --- | --- | --- | --- |
-| **SolarKita** | Market Leader B2C, Aplikasi Monitor, Estetika.
-
- | **SANGAT TINGGI** | Serang dengan kapabilitas Hybrid Deye.
-
- |
-| **Modena Energy** | *Cross-selling* database perabotan rumah tangga.
-
- | **SANGAT TINGGI** | Tonjolkan DNA *engineering* industrial Renus.
-
- |
-| **Arysun** | Startup, Cicilan 24 Bulan **Tanpa DP**.
-
- | **SANGAT TINGGI** | Serang keterbatasan ekspansi sistem murah mereka.
-
- |
-| **Infien Energy** | Baterai Estetis (Powerwall) & EV Ecosystem.
-
- | **SANGAT TINGGI** | Gunakan status Renus sebagai distributor resmi global.
-
- |
-| **Kintics** | *Niche Luxury*: Panel Eropa (SoliTek), Lift Rumah.
-
- | **TINGGI** | Adu *Return on Investment* (ROI).
-
- |
-| **Batari Energy** | Raja volume e-commerce, Paket Ekonomis.
-
- | **TINGGI** | Jual SLA, izin PLN, dan tim *engineering*.
-
- |
-| **ATW Solar** | Korporasi raksasa, program *Solar Leasing*.
-
- | **TINGGI** | Berikan alternatif cicilan bank 0%.
-
- |
-| **Utomo SolaRUV** | Distributor Ganda & EPC Ritel (Sungrow & Longi).
-
- | **TINGGI** | Tonjolkan superioritas Inverter Deye.
-
- |
-| **Sunterra** | Dominasi *Digital Marketing*, *Eco-lifestyle*.
-
- | **TINGGI** | Tingkatkan kualitas visual portofolio Renus.
-
- |
-| **Jarwinn** | Fokus edukasi kalkulator ROI & etalase.
-
- | **MENENGAH** | Adopsi transparansi perhitungan *payback period*.
-
- |
+| **SolarKita** | Market Leader B2C, Aplikasi Monitor, Estetika.| **SANGAT TINGGI** | Serang dengan kapabilitas Hybrid Deye.|
+| **Modena Energy** | *Cross-selling* database perabotan rumah tangga.| **SANGAT TINGGI** | Tonjolkan DNA *engineering* industrial Renus.|
+| **Arysun** | Startup, Cicilan 24 Bulan **Tanpa DP**.| **SANGAT TINGGI** | Serang keterbatasan ekspansi sistem murah mereka.|
+| **Infien Energy** | Baterai Estetis (Powerwall) & EV Ecosystem.| **SANGAT TINGGI** | Gunakan status Renus sebagai distributor resmi global.|
+| **Kintics** | *Niche Luxury*: Panel Eropa (SoliTek), Lift Rumah.| **TINGGI** | Adu *Return on Investment* (ROI).|
+| **Batari Energy** | Raja volume e-commerce, Paket Ekonomis.| **TINGGI** | Jual SLA, izin PLN, dan tim *engineering*.|
+| **ATW Solar** | Korporasi raksasa, program *Solar Leasing*.| **TINGGI** | Berikan alternatif cicilan bank 0%.|
+| **Utomo SolaRUV** | Distributor Ganda & EPC Ritel (Sungrow & Longi).| **TINGGI** | Tonjolkan superioritas Inverter Deye.|
+| **Sunterra** | Dominasi *Digital Marketing*, *Eco-lifestyle*.| **TINGGI** | Tingkatkan kualitas visual portofolio Renus.|
+| **Jarwinn** | Fokus edukasi kalkulator ROI & etalase. | **MENENGAH** | Adopsi transparansi perhitungan *payback period*.|
 
 ### Kuadran B: Pemain Regional, Spesialis, & Niche B2C
 
 Kompetitor ini berbahaya di segmen atau wilayah geografis tertentu.
 
 * **Warung Energi:** Ancaman di **Surabaya** (Kandang Renus).
-
-
 * **Baran Energy:** Pemain segmen "Sultan" dengan baterai kapasitas raksasa.
-
-
 * **WeDoSolar:** Spesialis *plug & play* (apartemen/balkon).
-
-
 * **Sonergy:** Transparansi harga per Watt-peak dan garansi proteksi petir.
-
-
 * **SMSolar Power:** Layanan kuat di pengurusan perizinan PLN.
-
-
 * **Shams Energy:** Branding kuat portofolio IKN.
-
-
 * **Sedayu Solar:** EPC berbasis *word-of-mouth* di perumahan elite.
-
-
 * **ICA Solar:** Pemain ritel menengah yang aktif di media sosial.
-
-
 * **HES (Heksa):** EPC B2B yang melayani B2C *high-end*.
-
-
 * **Omazaki Group:** Segmen *smart home* dan audit energi terintegrasi.
-
-
 * **Aton (Atonergi):** Jagoan lokal Jawa Timur (Pompa Air Tenaga Surya).
 
 
@@ -120,13 +60,11 @@ Kompetitor untuk divisi B2B/Tender Industri Renus (tidak fokus ke B2C).
 * **Len Solar, Surya Semesta Cemerlang, Arkhadaya, BTI Energy, Koenergia, Helio Nusa, Sinar Power Nusantara, Solterra, Volt Solar, Energy Lima Pilar**.
 
 
-
 ### Kuadran D: Vendor Kelas Menengah, Proyek Pedalaman, & CSR
 
 Fokus di luar Jawa, PJU, dan proyek CSR.
 
 * **Neira Energy, Kas Green Energy, Ufuk Hijau, Rekasurya, Solatec, InnSolar, Sirius, Sinari, Aspro, HiCell, Priston**.
-
 
 
 ---
@@ -142,7 +80,6 @@ Selain merek perusahaan di atas, tim Renus menghadapi pasar "Ekor Panjang":
 
 
 3. **Glodok / LTC / Kenari:** Toko konvensional komponen *tier-2* untuk DIY.
-
 
 
 ---
